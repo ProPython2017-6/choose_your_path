@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ymaps xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="     http://maps.yandex.ru/business/1.x http://maps.yandex.ru/schemas/business/1.x/business.xsd     http://maps.yandex.ru/geocoder/1.x http://maps.yandex.ru/schemas/geocoder/1.x/geocoder.xsd     http://maps.yandex.ru/psearch/1.x http://maps.yandex.ru/schemas/psearch/1.x/psearch.xsd     http://maps.yandex.ru/search/1.x http://maps.yandex.ru/schemas/search/1.x/search.xsd     http://maps.yandex.ru/web/1.x http://maps.yandex.ru/schemas/web/1.x/web.xsd     http://maps.yandex.ru/search/internal/1.x http://maps.yandex.ru/schemas/search/internal/1.x/internal.xsd">
+  <GeoObjectCollection>
+    <metaDataProperty xmlns="http://www.opengis.net/gml">
+      <GeocoderResponseMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+        <request>Владимир</request>
+        <found>12</found>
+        <results>10</results>
+      </GeocoderResponseMetaData>
+    </metaDataProperty>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="1">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>locality</kind>
+            <text>Россия, Владимир</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Владимир</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Центральный федеральный округ</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Владимирская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>городской округ Город Владимир</name>
+              </Component>
+              <Component>
+                <kind>locality</kind>
+                <name>Владимир</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Владимир</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Владимирская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>городской округ Город Владимир</SubAdministrativeAreaName>
+                    <Locality>
+                      <LocalityName>Владимир</LocalityName>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Россия</description>
+        <name xmlns="http://www.opengis.net/gml">Владимир</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>40.176846 56.052195</lowerCorner>
+            <upperCorner>40.664891 56.217746</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>40.40703 56.129042</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="2">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>locality</kind>
+            <text>Россия, Иркутская область, Заларинский район, село Владимир</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Иркутская область, Заларинский район, село Владимир</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Сибирский федеральный округ</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Иркутская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>Заларинский район</name>
+              </Component>
+              <Component>
+                <kind>locality</kind>
+                <name>село Владимир</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Иркутская область, Заларинский район, село Владимир</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Иркутская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>Заларинский район</SubAdministrativeAreaName>
+                    <Locality>
+                      <LocalityName>село Владимир</LocalityName>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Заларинский район, Иркутская область, Россия</description>
+        <name xmlns="http://www.opengis.net/gml">село Владимир</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>102.638747 53.457007</lowerCorner>
+            <upperCorner>102.669244 53.493659</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>102.654557 53.472006</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="3">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>hydro</kind>
+            <text>Россия, Республика Саха (Якутия), муниципальный район Анабарский национальный (долгано-эвенкийский) улус, озеро Владимир</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Республика Саха (Якутия), муниципальный район Анабарский национальный (долгано-эвенкийский) улус, озеро Владимир</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Дальневосточный федеральный округ</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Республика Саха (Якутия)</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>муниципальный район Анабарский национальный (долгано-эвенкийский) улус</name>
+              </Component>
+              <Component>
+                <kind>hydro</kind>
+                <name>озеро Владимир</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Республика Саха (Якутия), муниципальный район Анабарский национальный (долгано-эвенкийский) улус, озеро Владимир</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Республика Саха (Якутия)</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>муниципальный район Анабарский национальный (долгано-эвенкийский) улус</SubAdministrativeAreaName>
+                    <Locality>
+                      <Premise>
+                        <PremiseName>озеро Владимир</PremiseName>
+                      </Premise>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">муниципальный район Анабарский национальный (долгано-эвенкийский) улус, Республика Саха (Якутия), Россия</description>
+        <name xmlns="http://www.opengis.net/gml">озеро Владимир</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>112.099453 72.99659</lowerCorner>
+            <upperCorner>112.143407 73.010256</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>112.121417 73.005139</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="4">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>hydro</kind>
+            <text>Россия, Сахалинская область, Поронайский городской округ, озеро Владимир</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Сахалинская область, Поронайский городской округ, озеро Владимир</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Дальневосточный федеральный округ</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Сахалинская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>Поронайский городской округ</name>
+              </Component>
+              <Component>
+                <kind>hydro</kind>
+                <name>озеро Владимир</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Сахалинская область, Поронайский городской округ, озеро Владимир</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Сахалинская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>Поронайский городской округ</SubAdministrativeAreaName>
+                    <Locality>
+                      <Premise>
+                        <PremiseName>озеро Владимир</PremiseName>
+                      </Premise>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Поронайский городской округ, Сахалинская область, Россия</description>
+        <name xmlns="http://www.opengis.net/gml">озеро Владимир</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>143.169313 49.553608</lowerCorner>
+            <upperCorner>143.186722 49.565891</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>143.17764 49.559873</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="5">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>locality</kind>
+            <text>Украина, Волынская область, Владимир-Волынский</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>UA</country_code>
+              <formatted>Волынская область, Владимир-Волынский</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Украина</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Волынская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>Владимир-Волынский городской совет</name>
+              </Component>
+              <Component>
+                <kind>locality</kind>
+                <name>Владимир-Волынский</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Волынская область, Владимир-Волынский</AddressLine>
+                <CountryNameCode>UA</CountryNameCode>
+                <CountryName>Украина</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Волынская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>Владимир-Волынский городской совет</SubAdministrativeAreaName>
+                    <Locality>
+                      <LocalityName>Владимир-Волынский</LocalityName>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Волынская область, Украина</description>
+        <name xmlns="http://www.opengis.net/gml">Владимир-Волынский</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>24.263056 50.806363</lowerCorner>
+            <upperCorner>24.375309 50.877949</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>24.321204 50.850263</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="6">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>hydro</kind>
+            <text>Россия, река Владимир-Пастага</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>река Владимир-Пастага</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>hydro</kind>
+                <name>река Владимир-Пастага</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>река Владимир-Пастага</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <Locality>
+                  <Premise>
+                    <PremiseName>река Владимир-Пастага</PremiseName>
+                  </Premise>
+                </Locality>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Россия</description>
+        <name xmlns="http://www.opengis.net/gml">река Владимир-Пастага</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>110.902843 73.562583</lowerCorner>
+            <upperCorner>111.183063 73.605949</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>110.966273 73.568683</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="7">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>area</kind>
+            <text>Украина, Волынская область, Владимир-Волынский район</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>UA</country_code>
+              <formatted>Волынская область, Владимир-Волынский район</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Украина</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Волынская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>Владимир-Волынский район</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Волынская область, Владимир-Волынский район</AddressLine>
+                <CountryNameCode>UA</CountryNameCode>
+                <CountryName>Украина</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Волынская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>Владимир-Волынский район</SubAdministrativeAreaName>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Волынская область, Украина</description>
+        <name xmlns="http://www.opengis.net/gml">Владимир-Волынский район</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>23.912982 50.707175</lowerCorner>
+            <upperCorner>24.631769 51.05523</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>24.274779 50.873163</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="8">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>railway</kind>
+            <text>Россия, Горьковская железная дорога, станция Владимир</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Горьковская железная дорога, станция Владимир</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>route</kind>
+                <name>Горьковская железная дорога</name>
+              </Component>
+              <Component>
+                <kind>railway</kind>
+                <name>станция Владимир</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Горьковская железная дорога, станция Владимир</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <Country>
+                  <Locality/>
+                </Country>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Горьковская железная дорога, Россия</description>
+        <name xmlns="http://www.opengis.net/gml">станция Владимир</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>40.412168 56.125315</lowerCorner>
+            <upperCorner>40.428625 56.134506</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>40.420397 56.12991</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="9">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>locality</kind>
+            <text>Россия, Владимирская область, Радужный</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Владимирская область, Радужный</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Центральный федеральный округ</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Владимирская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>городской округ ЗАТО Город Радужный</name>
+              </Component>
+              <Component>
+                <kind>locality</kind>
+                <name>Радужный</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Владимирская область, Радужный</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Владимирская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>городской округ ЗАТО Город Радужный</SubAdministrativeAreaName>
+                    <Locality>
+                      <LocalityName>Радужный</LocalityName>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Владимирская область, Россия</description>
+        <name xmlns="http://www.opengis.net/gml">Радужный</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>40.259787 55.971038</lowerCorner>
+            <upperCorner>40.350194 56.010946</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>40.332281 55.996052</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+    <featureMember xmlns="http://www.opengis.net/gml">
+      <GeoObject xmlns="http://maps.yandex.ru/ymaps/1.x" xmlns:gml="http://www.opengis.net/gml" gml:id="10">
+        <metaDataProperty xmlns="http://www.opengis.net/gml">
+          <GeocoderMetaData xmlns="http://maps.yandex.ru/geocoder/1.x">
+            <kind>other</kind>
+            <text>Россия, Ленинградская область, Приозерский район, Приозерское городское поселение, остров Владимир</text>
+            <precision>other</precision>
+            <Address xmlns="http://maps.yandex.ru/address/1.x">
+              <country_code>RU</country_code>
+              <formatted>Ленинградская область, Приозерский район, Приозерское городское поселение, остров Владимир</formatted>
+              <Component>
+                <kind>country</kind>
+                <name>Россия</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Северо-Западный федеральный округ</name>
+              </Component>
+              <Component>
+                <kind>province</kind>
+                <name>Ленинградская область</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>Приозерский район</name>
+              </Component>
+              <Component>
+                <kind>area</kind>
+                <name>Приозерское городское поселение</name>
+              </Component>
+              <Component>
+                <kind>other</kind>
+                <name>остров Владимир</name>
+              </Component>
+            </Address>
+            <AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+              <Country>
+                <AddressLine>Ленинградская область, Приозерский район, Приозерское городское поселение, остров Владимир</AddressLine>
+                <CountryNameCode>RU</CountryNameCode>
+                <CountryName>Россия</CountryName>
+                <AdministrativeArea>
+                  <AdministrativeAreaName>Ленинградская область</AdministrativeAreaName>
+                  <SubAdministrativeArea>
+                    <SubAdministrativeAreaName>Приозерский район</SubAdministrativeAreaName>
+                    <Locality>
+                      <Premise>
+                        <PremiseName>остров Владимир</PremiseName>
+                      </Premise>
+                    </Locality>
+                  </SubAdministrativeArea>
+                </AdministrativeArea>
+              </Country>
+            </AddressDetails>
+          </GeocoderMetaData>
+        </metaDataProperty>
+        <description xmlns="http://www.opengis.net/gml">Приозерское городское поселение, Приозерский район, Ленинградская область, Россия</description>
+        <name xmlns="http://www.opengis.net/gml">остров Владимир</name>
+        <boundedBy xmlns="http://www.opengis.net/gml">
+          <Envelope>
+            <lowerCorner>30.08846 61.087494</lowerCorner>
+            <upperCorner>30.089151 61.087725</upperCorner>
+          </Envelope>
+        </boundedBy>
+        <Point xmlns="http://www.opengis.net/gml">
+          <pos>30.088783 61.08762</pos>
+        </Point>
+      </GeoObject>
+    </featureMember>
+  </GeoObjectCollection>
+</ymaps>

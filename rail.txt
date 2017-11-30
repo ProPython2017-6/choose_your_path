@@ -1,0 +1,2609 @@
+{
+   "interval_segments": [],
+   "pagination": {
+      "limit": 100,
+      "offset": 0,
+      "total": 38
+   },
+   "search": {
+      "date": "2017-11-30",
+      "from": {
+         "code": "c213",
+         "popular_title": "Москва",
+         "short_title": "Москва",
+         "title": "Москва",
+         "type": "settlement"
+      },
+      "to": {
+         "code": "c192",
+         "popular_title": "Владимир",
+         "short_title": "Владимир",
+         "title": "Владимир",
+         "type": "settlement"
+      }
+   },
+   "segments": [
+      {
+         "arrival": "2017-11-30T02:54:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T00:10:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 9840.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "036Э",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=036YE_2_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "036YE_2_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T04:31:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T02:27:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 7440.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-29",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "059А",
+            "short_title": "Санкт-Петербург — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-29&uid=059A_4_2",
+            "title": "Санкт-Петербург — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "059A_4_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T08:14:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T06:35:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "702Н",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=702N_1_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "702N_1_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T10:45:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T07:10:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12900.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 59737,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "АО \"Вязниковское ПАТП\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Вязники",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_1_f9744862t9623092_114",
+            "title": "Москва, м. Щёлковская — Вязники",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_1_f9744862t9623092_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T08:54:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T07:15:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "728Г",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=728G_1_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "728G_1_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T11:40:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T08:05:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12900.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "до Реутово везде, далее Салтыковская, Железнодорожная, Электроугли, Фрязево, Павловский Посад, далее везде, кроме: Назарьево, Войново, 113 км, Красная Охота",
+         "thread": {
+            "carrier": {
+               "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+               "code": 153,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+               "email": "info@central-ppk.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/cppk.png",
+               "logo_svg": null,
+               "phone": "",
+               "title": "Центральная пригородная пассажирская компания",
+               "url": "http://www.central-ppk.ru/"
+            },
+            "express_type": null,
+            "number": "6994",
+            "short_title": "М-Курская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=6994_0_2000001_g17_4",
+            "title": "Москва (Курский вокзал) — Владимир",
+            "transport_subtype": {
+               "code": "suburban",
+               "color": "#FF7F44",
+               "title": "Пригородный поезд"
+            },
+            "transport_type": "suburban",
+            "uid": "6994_0_2000001_g17_4",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T12:15:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T08:50:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12300.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 56964,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"Владимиравтотранс\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Выкса",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_1_f9744862t9637912_114",
+            "title": "Москва, м. Щёлковская — Выкса",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_1_f9744862t9637912_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T11:14:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T09:30:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 6240.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "730Г",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=730G_1_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "730G_1_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T13:35:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T10:10:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12300.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 56954,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"Круиз-Авто\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Муром",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_5_f9744862t9623098_114",
+            "title": "Москва, м. Щёлковская — Муром",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_5_f9744862t9623098_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T12:39:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T11:00:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "704Н",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=704N_0_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "704N_0_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T13:57:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T11:00:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 10620.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 60762,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"Автобусное управление №3\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Муром",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_0_f9744862t9623098_114",
+            "title": "Москва, м. Щёлковская — Муром",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_0_f9744862t9623098_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T15:15:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T11:20:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 14100.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 60916,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"ПАТП+\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Ковров",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_1_f9744862t9623095_114",
+            "title": "Москва, м. Щёлковская — Ковров",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_1_f9744862t9623095_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T16:55:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T13:30:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12300.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 56954,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"Круиз-Авто\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Муром",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_7_f9744862t9623098_114",
+            "title": "Москва, м. Щёлковская — Муром",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_7_f9744862t9623098_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T16:27:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T13:35:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 10320.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "084М",
+            "short_title": "Москва — Приобье",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=084M_1_2",
+            "title": "Москва — Приобье",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "084M_1_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T15:39:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T14:00:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "706Н",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=706N_0_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "706N_0_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T17:46:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T14:12:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12840.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "до Железнодорожная везде, далее Купавна, Электроугли, Храпуново, Фрязево, Павловский Посад, Дрезна, Орехово-Зуево, далее везде, кроме: Красная Охота",
+         "thread": {
+            "carrier": {
+               "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+               "code": 153,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+               "email": "info@central-ppk.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/cppk.png",
+               "logo_svg": null,
+               "phone": "",
+               "title": "Центральная пригородная пассажирская компания",
+               "url": "http://www.central-ppk.ru/"
+            },
+            "express_type": null,
+            "number": "6996",
+            "short_title": "М-Курская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=6996_0_2000001_g17_4",
+            "title": "Москва (Курский вокзал) — Владимир",
+            "transport_subtype": {
+               "code": "suburban",
+               "color": "#FF7F44",
+               "title": "Пригородный поезд"
+            },
+            "transport_type": "suburban",
+            "uid": "6996_0_2000001_g17_4",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T17:50:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T14:15:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12900.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 59737,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "АО \"Вязниковское ПАТП\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Вязники",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_0_f9744862t9623092_114",
+            "title": "Москва, м. Щёлковская — Вязники",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_0_f9744862t9623092_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T18:35:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T15:00:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12900.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 56958,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ГУП \"Владимирский автовокзал\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_0_f9744862t9623080_114",
+            "title": "Москва, м. Щёлковская — Владимир",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_0_f9744862t9623080_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T18:55:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T15:30:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12300.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 56954,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"Круиз-Авто\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Муром",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_6_f9744862t9623098_114",
+            "title": "Москва, м. Щёлковская — Муром",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_6_f9744862t9623098_114",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T18:08:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T15:30:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 9480.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "Железнодорожная, Павловский Посад, Орехово-Зуево, Петушки, Владимир",
+         "thread": {
+            "carrier": {
+               "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+               "code": 153,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+               "email": "info@central-ppk.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/cppk.png",
+               "logo_svg": null,
+               "phone": "",
+               "title": "Центральная пригородная пассажирская компания",
+               "url": "http://www.central-ppk.ru/"
+            },
+            "express_type": "express",
+            "number": "7092",
+            "short_title": "М-Курская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=7092_0_2000001_g17_4",
+            "title": "Москва (Курский вокзал) — Владимир",
+            "transport_subtype": {
+               "code": "exprdal",
+               "color": "#FF7F44",
+               "title": "экспресс<br/>(билеты&nbsp;c указанием&nbsp;мест)"
+            },
+            "transport_type": "suburban",
+            "uid": "7092_0_2000001_g17_4",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T17:19:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T15:40:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "708Н",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=708N_0_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "708N_0_2",
+            "vehicle": null
+         },
+         "tickets_info": null,
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T19:25:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T16:20:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 11100.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "092И",
+            "short_title": "Москва — Северобайкальск",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=092I_28_2",
+            "title": "Москва — Северобайкальск",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "092I_28_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": []
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T18:19:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T16:35:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 6240.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "732Г",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=732G_1_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "732G_1_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 485
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T19:35:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T16:50:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 9900.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "008Е",
+            "short_title": "Москва — Пермь",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=008E_2_2",
+            "title": "Москва — Пермь",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "008E_2_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": []
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T21:30:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T17:35:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 14100.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 60916,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"ПАТП+\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Ковров",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_0_f9744862t9623095_114",
+            "title": "Москва, м. Щёлковская — Ковров",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_0_f9744862t9623095_114",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 447
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T21:06:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T18:24:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 9720.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "Петушки, Владимир",
+         "thread": {
+            "carrier": {
+               "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+               "code": 153,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+               "email": "info@central-ppk.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/cppk.png",
+               "logo_svg": null,
+               "phone": "",
+               "title": "Центральная пригородная пассажирская компания",
+               "url": "http://www.central-ppk.ru/"
+            },
+            "express_type": "express",
+            "number": "7048",
+            "short_title": "М-Курская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=7048_0_2000001_g17_4",
+            "title": "Москва (Курский вокзал) — Владимир",
+            "transport_subtype": {
+               "code": "exprdal",
+               "color": "#FF7F44",
+               "title": "экспресс<br/>(билеты&nbsp;c указанием&nbsp;мест)"
+            },
+            "transport_type": "suburban",
+            "uid": "7048_0_2000001_g17_4",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 590
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T20:14:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T18:35:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "734Г",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=734G_0_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "734G_0_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 485
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T22:50:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T19:15:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12900.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 56958,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ГУП \"Владимирский автовокзал\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_5_f9744862t9623080_114",
+            "title": "Москва, м. Щёлковская — Владимир",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_5_f9744862t9623080_114",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 404
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T23:02:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T20:05:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 10620.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 59609,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "В поезде курсируют вагоны двух перевозчиков - Федеральной пассажирской компании и ЗАО «ТрансКлассСервис».",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "РЖД/ФПК + ТКС",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "032Г",
+            "short_title": "Москва — Киров",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=032G_0_2",
+            "title": "Москва — Киров",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "032G_0_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": []
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T21:59:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T20:20:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 5940.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "710Н",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=710N_0_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "710N_0_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 485
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-11-30T23:18:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T21:07:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 7860.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "736Г",
+            "short_title": "Москва — Ковров",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=736G_0_2",
+            "title": "Москва — Ковров",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "736G_0_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 485
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T00:01:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T21:12:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 10140.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "Железнодорожная, Фрязево, Павловский Посад, Орехово-Зуево, Петушки, далее везде, кроме: Красная Охота, 170 км",
+         "thread": {
+            "carrier": {
+               "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+               "code": 153,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+               "email": "info@central-ppk.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/cppk.png",
+               "logo_svg": null,
+               "phone": "",
+               "title": "Центральная пригородная пассажирская компания",
+               "url": "http://www.central-ppk.ru/"
+            },
+            "express_type": "express",
+            "number": "7196",
+            "short_title": "М-Курская — Владимир",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=7196_1_2000001_g17_4",
+            "title": "Москва (Курский вокзал) — Владимир",
+            "transport_subtype": {
+               "code": "express",
+               "color": "#FF7F44",
+               "title": "экспресс"
+            },
+            "transport_type": "suburban",
+            "uid": "7196_1_2000001_g17_4",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 530
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T01:26:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T22:35:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 10260.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "110Э",
+            "short_title": "Москва — Новый Уренгой",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=110YE_4_2",
+            "title": "Москва — Новый Уренгой",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "110YE_4_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": []
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T02:05:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T22:45:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 12000.0,
+         "from": {
+            "code": "s9744862",
+            "popular_title": "м. Щёлковская",
+            "short_title": "",
+            "station_type": "",
+            "station_type_name": "автостанция",
+            "title": "Москва, м. Щёлковская",
+            "transport_type": "bus",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "",
+               "code": 60916,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "",
+               "email": "",
+               "logo": null,
+               "logo_svg": null,
+               "phone": "",
+               "title": "ООО \"ПАТП+\"",
+               "url": ""
+            },
+            "express_type": null,
+            "number": "",
+            "short_title": "Москва, м. Щёлковская — Ковров",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=empty_2_f9744862t9623095_114",
+            "title": "Москва, м. Щёлковская — Ковров",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "bus",
+            "uid": "empty_2_f9744862t9623095_114",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 447
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s9623080",
+            "popular_title": "Автовокзал Владимир",
+            "short_title": "",
+            "station_type": "bus_station",
+            "station_type_name": "автовокзал",
+            "title": "Владимир",
+            "transport_type": "bus",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T01:36:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T22:50:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 9960.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "038Н",
+            "short_title": "Москва — Томск",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=038N_2_2",
+            "title": "Москва — Томск",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "038N_2_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": []
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T01:16:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-11-30T22:55:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 8460.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "131Г",
+            "short_title": "Санкт-Петербург — Ижевск",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=131G_8_2",
+            "title": "Санкт-Петербург — Ижевск",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "131G_8_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 485
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T02:54:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-12-01T00:10:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 9840.0,
+         "from": {
+            "code": "s2000002",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Ярославский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-12-01",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "036Э",
+            "short_title": "Москва — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-12-01&uid=036YE_2_2",
+            "title": "Москва — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "036YE_2_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": []
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      },
+      {
+         "arrival": "2017-12-01T04:31:00+03:00",
+         "arrival_platform": "",
+         "arrival_terminal": null,
+         "departure": "2017-12-01T02:27:00+03:00",
+         "departure_platform": "",
+         "departure_terminal": null,
+         "duration": 7440.0,
+         "from": {
+            "code": "s2000001",
+            "popular_title": "Курский вокзал",
+            "short_title": "М-Курская",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Москва (Курский вокзал)",
+            "transport_type": "train",
+            "type": "station"
+         },
+         "has_transfers": false,
+         "start_date": "2017-11-30",
+         "stops": "",
+         "thread": {
+            "carrier": {
+               "address": "Москва, ул. Новая Басманная , д. 2",
+               "code": 112,
+               "codes": {
+                  "iata": null,
+                  "icao": null,
+                  "sirena": null
+               },
+               "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+               "email": "info@rzd.ru",
+               "logo": "//yastatic.net/rasp/media/data/company/logo/logo.gif",
+               "logo_svg": null,
+               "phone": "+7 (800) 775-00-00",
+               "title": "РЖД/ФПК",
+               "url": "http://www.rzd.ru/"
+            },
+            "express_type": null,
+            "number": "059А",
+            "short_title": "Санкт-Петербург — Нижний Новгород",
+            "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2017-11-30&uid=059A_4_2",
+            "title": "Санкт-Петербург — Нижний Новгород",
+            "transport_subtype": {
+               "code": null,
+               "color": null,
+               "title": null
+            },
+            "transport_type": "train",
+            "uid": "059A_4_2",
+            "vehicle": null
+         },
+         "tickets_info": {
+            "et_marker": false,
+            "places": [
+               {
+                  "currency": "RUB",
+                  "name": null,
+                  "price": {
+                     "cents": 0,
+                     "whole": 485
+                  }
+               }
+            ]
+         },
+         "to": {
+            "code": "s2060340",
+            "popular_title": "",
+            "short_title": "",
+            "station_type": "train_station",
+            "station_type_name": "вокзал",
+            "title": "Владимир",
+            "transport_type": "train",
+            "type": "station"
+         }
+      }
+   ]
+}
